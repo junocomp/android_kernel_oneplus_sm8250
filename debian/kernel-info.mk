@@ -169,7 +169,7 @@ FLASH_INFO_MODEL = IN2015
 # we're running on the specific device. Note this is a last-resort
 # method, specifying FLASH_INFO_MANUFACTURER and FLASH_INFO_MODEL is
 # recommended.
-FLASH_INFO_CPU = Qualcomm Technologies, Inc SM8250
+FLASH_INFO_CPU = Qualcomm Technologies, Inc KONA
 
 # Space-separated list of supported device ids as reported by fastboot
 FLASH_INFO_DEVICE_IDS = kona
